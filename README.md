@@ -25,7 +25,6 @@ Provides CRUD operations for students, admin profile management, and handles aut
 - **Framework:** FastAPI
 - **Database:** MySQL (default, can use PostgreSQL)
 - **ORM:** SQLAlchemy
-- **Authentication:** JWT / Token-based
 
 ---
 
